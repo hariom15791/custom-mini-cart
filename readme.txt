@@ -1,7 +1,7 @@
 === woocommerec custom mini cart ===
 Contributors: Hariom Srivastava
 Donate link:  
-Tags: checkout popup, checkout modal, custom checkout,advance checkout, checkout customization,one page checkout, same page checkout,woo-commerce, woo commerce add on
+Tags: Mini cart,woocommerec custom mini cart
 Requires at least: 3.0.1
 Tested up to: 4.7.3
 Stable tag: 4.3
