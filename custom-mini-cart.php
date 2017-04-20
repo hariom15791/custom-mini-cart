@@ -3,7 +3,7 @@
 /*
 Plugin Name: Woocommerec Custom Mini Cart
 Version: 1.0.1
-Plugin URI: https://github.com/GaganTiwari/WC-Direct-Place-Order-Without-Payment
+Plugin URI: https://github.com/hariom15791/custom-mini-cart/
 Description: This is Woocommerec custom Mini Cart plugin 
 Author: Hariom Srivastava
 License: GPL v3
